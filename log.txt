@@ -3,3 +3,4 @@ Add feature for X [4jVLkX] line 7.1
 Add feature for X [OUHIn6] line 10.2
 Improve performance [LU3acN] line 11.1
 Improve performance [QLDkpZ] line 8.1
+Update documentation [EMrfE6] line 10.3
