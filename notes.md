@@ -5,3 +5,4 @@ Add feature for X [OUHIn6] line 10.1
 Add test case for W [jzlQhx] line 2.3
 Add test case for W [81uRwd] line 3.2
 Update documentation [9WJJhB] line 6.1
+Improve performance [QLDkpZ] line 8.2
